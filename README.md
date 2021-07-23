@@ -1,7 +1,7 @@
 # teste-pulses
 módulo de pesquisa pulses
 
-Tabela de conteúdos
+# Tabela de conteúdos
 =================
 <!--ts-->
    * [Status](###Status)
@@ -13,12 +13,12 @@ Tabela de conteúdos
    * [Licença](#Licença)
 <!--te-->
 
-### Status
+# Status
 <h4 align="center"> 
 	🚧  Modulo de Perguntas 🚀 Em construção...  🚧
 </h4>
 
-### Features
+# Features
 
 - [x] Cadastro de pergunta
 - [x] Cadastro de dimensão
@@ -29,7 +29,7 @@ Tabela de conteúdos
 - [x] Listagem de pergunta
 - [x] Listagem de dimensão
 
-### Pré-requisitos
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [PHP] um servidor web que ofereça suporte a PHP 7.2 ou mais recente, como:
@@ -49,22 +49,22 @@ zlib: para efetuar backup e restaurar as funções da base de dados;
 simplexml;
 xml;
 intl.
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### Configurações
+# Configurações
 
 # Clone este repositório
 $ git clone https://github.com/DeividAlmeida/teste-pulses.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd controller
-Edite o arquivo config.php colocando as credências do seu banco de dados 
+Edite o arquivo config.php colocando as credênciais do seu banco de dados 
 # Acesse novamente a pasta do projeto no terminal/cmd
 cd ..\
-Importe o arquivo databese.sql no banco de dados que você acabou de configurar 
+Importe o arquivo database.sql no banco de dados que você acabou de configurar 
 
-### Tecnologias
+# Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+### As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Vue.js](https://vuejs.org/)
 - [Bootstrap](https://getbootstrap.com/)
@@ -72,10 +72,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [fontawesome](https://fontawesome.com/)
 
 
-### Autor
+# Autor
 Deivid dos Santos Lima Almeida
 
-### Licença
+# Licença
 
 MIT License
 
