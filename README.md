@@ -30,7 +30,6 @@ módulo de pesquisa pulses
 - [x] Listagem de dimensão
 
 # Pré-requisitos
-
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [PHP] um servidor web que ofereça suporte a PHP 7.2 ou mais recente, como:
 Apache 2 (ou mais recente);
@@ -52,20 +51,17 @@ intl.
 Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 # Configurações
-
-# Clone este repositório
+Clone este repositório
 $ git clone https://github.com/DeividAlmeida/teste-pulses.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd controller
 Edite o arquivo config.php colocando as credênciais do seu banco de dados 
 # Acesse novamente a pasta do projeto no terminal/cmd
-cd ..\
+$cd ..\
 Importe o arquivo database.sql no banco de dados que você acabou de configurar 
 
 # Tecnologias
-
-### As seguintes ferramentas foram usadas na construção do projeto:
-
+As seguintes ferramentas foram usadas na construção do projeto:
 - [Vue.js](https://vuejs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [sweetalert2](https://sweetalert2.github.io/)
@@ -76,7 +72,6 @@ Importe o arquivo database.sql no banco de dados que você acabou de configurar
 Deivid dos Santos Lima Almeida
 
 # Licença
-
 MIT License
 
 Copyright (c) <2020> <Seu Nome>
