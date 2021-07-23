@@ -62,6 +62,7 @@ $ cd controller
 
 
 Edite o arquivo config.php colocando as credênciais do seu banco de dados 
+
 Acesse novamente a pasta do projeto no terminal/cmd
 
 $ cd ..\
