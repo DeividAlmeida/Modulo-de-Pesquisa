@@ -52,10 +52,14 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 
 # Configurações
 Clone este repositório
+
 $ git clone https://github.com/DeividAlmeida/teste-pulses.git
 
+
 Acesse a pasta do projeto no terminal/cmd
+
 $ cd controller
+
 
 Edite o arquivo config.php colocando as credênciais do seu banco de dados 
 Acesse novamente a pasta do projeto no terminal/cmd
